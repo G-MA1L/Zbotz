@@ -43,7 +43,7 @@ const buttonMessage = {
     contentText: `\`\`\`Hamlo ${name.vnmae || name.notify || name.name || ('+' + name.jid.split`@`[0])}, ${ucapan()} ${ucapin()}\`\`\`
 
 \`\`\`NB : Spam, Telpon : Blok!!!\`\`\``,
-    footerText: `Jam ${wib} WIB || © Zul Ganzy`,
+    footerText: `Jam ${wib} WIB || © Ismail Kurama`,
     buttons: buttons,
     headerType: 4, // change for file type
     imageMessage: media.message.imageMessage // change for file type
